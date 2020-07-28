@@ -2,7 +2,7 @@
 
 **Here are some details about me**
 
-- 🔭 I’m currently working on @Colisoft
+- 🔭 I’m currently working on [Colisoft](https://github.com/colisoft)
 - 🌱 I’m currently learning AI and ML
 - 👯 I’m looking to collaborate on nothing for now
 - 🤔 I’m looking for help with learn new cool things
