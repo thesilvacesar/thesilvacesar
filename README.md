@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+**Here are some details about me**
 
 - 🔭 I’m currently working on @Colisoft
 - 🌱 I’m currently learning AI and ML
@@ -10,3 +10,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: send-me an email on thesilvacesar@gmail.com
 - 😄 Pronouns: I don't known
 - ⚡ Fun fact: nothing
+
+### Free tools 🔨
+
+**Here are some free tools for use personal and professional**
+
+[Link Scraper](https://linkscraper.herokuapp.com)
